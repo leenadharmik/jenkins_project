@@ -1,5 +1,4 @@
 pipeline {
-    //commentforwebhook
     agent 
     {
         label 'slave3'
