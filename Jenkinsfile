@@ -1,5 +1,5 @@
 pipeline {
-    //commentforPOLSCM
+    //commentforwebhook
     agent 
     {
         label 'slave3'
